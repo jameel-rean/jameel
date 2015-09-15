@@ -8,5 +8,5 @@ setup(name='jameel',
       author='Jameel Grand',
       author_email='jameel@example.com',
       license='MIT',
-      py_modules=['lib']),
+      py_modules=['lib'],
       zip_safe=False)
