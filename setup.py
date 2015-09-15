@@ -8,5 +8,5 @@ setup(name='jameel',
       author='jameel grand',
       author_email='jameel.mohammed@reancloud.com',
       url='https://github.com/jameel-rean/jameel.git',
-      py_modules = ['jameel'],
+      py_modules = ['lib'],
      )
